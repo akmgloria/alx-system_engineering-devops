@@ -1,0 +1,4 @@
+[master fbbee72] Task 7
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x00-shell_basics/7-movethatfile
+ create mode 100644 README.md
